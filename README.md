@@ -52,3 +52,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Data Sources**: Thanks to various online resources for providing the Bollywood celebrity images.
 - **Libraries and Frameworks**: TensorFlow, Keras, Streamlit, OpenCV.
 
+# Celebrity-look-alike
